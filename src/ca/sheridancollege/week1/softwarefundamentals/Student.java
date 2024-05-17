@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * modifedby Dhriti
  * showing push operation
  * showing you the change on netbeans
+ * changing the code in github to reflect on my pc
  * @author dancye May 7, 2018
  */
 public class Student 
