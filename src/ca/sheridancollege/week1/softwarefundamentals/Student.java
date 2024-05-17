@@ -11,6 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * each student can: say their name (getName)
  * modifedby Dhriti
  * showing push operation
+ * showing you the change on netbeans
  * @author dancye May 7, 2018
  */
 public class Student 
